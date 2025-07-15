@@ -1,0 +1,105 @@
+.main{
+    margin-left: 5%;
+    padding-top: 2%;
+    z-index: 0;
+}
+.intro{
+    color: #fff;
+    text-align: left;
+    align-content: center;
+}
+#hello{
+    font-size: 4rem;
+    font-weight: bolder;
+}
+#name{
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 0.1;
+}
+#desg{
+    font-size: 1.5rem;
+}
+.main button{
+    font-size: 1em;
+    padding: 1.2rem;
+    background-color: black;
+    color: white;
+    border: none;
+    align-content: center;
+    align-items: center;
+    margin-bottom: 10%;
+}
+.main button:hover{
+    box-shadow: 4px 6px 8px rgb(24, 23, 23);
+    text-decoration: underline;
+    transform: scale(1.1,1.1);
+}
+.main button:active{
+    transform: scale(1, 1);
+    text-decoration: none;
+    box-shadow: none;
+}
+.aboutMe{
+    background-color: white;
+    padding: 2%;
+}
+.section-headings{
+    color: black;
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+}
+.section-content{
+    color: rgb(35, 35, 35);
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 0.8px;
+    padding: 2% 10%;
+}
+.icons{
+    height: 2rem;
+    width: 2rem;
+}
+.social a{
+    text-decoration: none;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-content: space-evenly;
+    align-items: center;
+    gap: 10%;
+    padding-bottom: 3%;
+}
+.glance{
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    padding: 2%;
+}
+.pagenav{
+    height: 80%;
+    width: 40vw;
+    background-color: rgba(255, 255, 255, 0.308);
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.pagenav a{
+    text-decoration: none;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    display: inline-block;
+}
+.pagenav a:hover{
+    transform: scale(1.2);
+    color: #ffffff;
+    transition: transform 0.3s ease, color 0.3s ease;
+}

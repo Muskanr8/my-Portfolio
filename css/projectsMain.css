@@ -1,0 +1,89 @@
+.projects-section{
+    text-align: center;
+    padding: 2rem 1rem;
+}
+.projects-section h2 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+.container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
+    gap: 2rem;
+    padding: 2rem;
+    /* background-color: white; */
+}
+.card{
+    background-color:rgba(0,0,0,0.5);
+    width: 100%;
+    align-content: center;
+    display: grid;
+}
+.card img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    vertical-align: top;
+    align-items: start;
+}
+.card p{
+    text-align: center;
+    line-height: 1.5;
+    font-size: 0.8rem;
+    padding: 1rem;
+    margin-top: 0px;
+}
+.card h4{
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 0px;
+    padding: 1rem;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.container a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+@media (min-width: 1200px){
+    .container{
+        width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-around;
+    gap: 2rem;
+    padding: 2rem;
+}
+}
+@media (min-width: 980px) and (max-width: 1199px){
+    .container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
+    gap: 2rem;
+    padding: 2rem;
+}
+}
+@media (min-width: 780px) and (max-width: 980px){
+    .container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
+    gap: 2rem;
+    padding: 2rem;
+}
+}
+@media (max-width: 750px){
+    .container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: space-around;
+    gap: 2rem;
+    padding: 2rem;
+}
+}
