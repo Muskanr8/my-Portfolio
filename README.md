@@ -31,7 +31,7 @@ This is my personal portfolio website built to showcase my projects, technical s
 
 ## 📸 Screenshots
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c1a697c7-0746-4e06-8fc0-ba98fd340973" />
+<img width="1920" height="2000" alt="image" src="https://github.com/user-attachments/assets/855d42fb-1e3f-450b-80f3-ec708bf674f2" />
 
 
 ## ⚙️ How to Run Locally
