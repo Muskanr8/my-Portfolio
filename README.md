@@ -2,7 +2,11 @@
 
 ## 🚀 Overview
 
-This is my personal portfolio website designed to showcase my skills, projects, and experience as a Full Stack Developer. The portfolio serves as a central hub for recruiters and collaborators to explore my work and technical expertise.
+This is my personal portfolio website built to showcase my projects, technical skills, and experience as a Full Stack Developer. It serves as a central platform for recruiters and collaborators to explore my work and development journey.
+
+## 🔗 Live Website
+
+👉 https://muskanshaik.netlify.app
 
 ## 🛠 Tech Stack
 
@@ -12,35 +16,23 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 
 ## ✨ Features
 
-* Responsive and user-friendly design
-* Interactive UI with smooth navigation
+* Fully responsive design across devices
+* Clean and modern user interface
 * Project showcase section
 * Skills and technologies display
 * Contact section for easy communication
 
 ## 👩‍💻 My Role
 
-* Designed and developed the complete frontend of the portfolio
-* Implemented responsive layouts using modern CSS techniques
-* Structured content to effectively highlight projects and skills
-* Integrated JavaScript for interactivity and dynamic behaviour
-
-## 📂 Project Structure
-
-```
-├── index.html
-├── css/
-├── scripts/
-├── images/
-```
+* Designed and developed the entire portfolio independently
+* Implemented responsive UI using modern CSS techniques
+* Structured content to highlight projects effectively
+* Integrated JavaScript for interactivity
 
 ## 📸 Screenshots
 
-(Add screenshots of your portfolio here)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c1a697c7-0746-4e06-8fc0-ba98fd340973" />
 
-## 🔗 Live Demo
-
-(Add your deployed link here if available)
 
 ## ⚙️ How to Run Locally
 
@@ -54,13 +46,11 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 ## 📌 Future Improvements
 
 * Add backend integration for contact form
-* Improve animations and UI/UX
-* Add more projects dynamically
-* Optimize performance and accessibility
+* Enhance UI/UX with animations
+* Improve performance and SEO
+* Add dynamic project updates
 
 ## 📬 Contact
-
-Feel free to connect with me:
 
 * LinkedIn: https://www.linkedin.com/in/muskan85/
 * GitHub: https://github.com/Muskanr8
